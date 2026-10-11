@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Concours des huissiers de justice 2026"><defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FAF6EE"/><stop offset="1" stop-color="#F0DFC0"/></linearGradient></defs><rect width="800" height="400" fill="url(#sky)"/>
+<rect y="322" width="800" height="78" fill="#14110F"/><rect y="318" width="800" height="6" fill="#C89B3C"/>
+<g stroke="#14110F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M300 300 H500"/><path d="M400 300 V120"/><path d="M270 150 H530"/>
+<path d="M300 150 L252 238 H348 Z" fill="#E1D4B8"/><path d="M500 150 L452 238 H548 Z" fill="#E1D4B8"/></g>
+<circle cx="400" cy="112" r="16" fill="#C89B3C"/>
+<g transform="translate(110,70) rotate(-28)"><rect x="0" y="0" width="86" height="34" rx="6" fill="#C1272D"/><rect x="34" y="34" width="18" height="110" rx="6" fill="#14110F"/></g>
+<rect x="602" y="104" width="112" height="140" rx="6" fill="#FAF6EE" stroke="#C89B3C" stroke-width="5"/>
+<g fill="#14110F"><rect x="620" y="128" width="76" height="8" rx="3"/><rect x="620" y="152" width="76" height="8" rx="3"/><rect x="620" y="176" width="52" height="8" rx="3"/></g>
+<circle cx="672" cy="214" r="14" fill="#1F7A4D"/><path d="M665 214 l5 6 l9 -12" stroke="#FAF6EE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="400" y="368" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#FAF6EE" letter-spacing="1">HUISSIERS DE JUSTICE 2026</text>
+</svg>
